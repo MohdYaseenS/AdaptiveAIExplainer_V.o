@@ -6,9 +6,7 @@ Adaptive AI Explainer is a production-ready, modular, and efficient LLM-powered 
 
 ✨ Features 
 ✅ Real-time Answer Streaming
-
 ✅ Supports Multiple Open-Source LLMs: 🔸 Meta LLaMA 3 🔸 Mistral 🔸 DeepSeek using hugginface
-
 ✅ Environment-Based Model Switching using .env 
 ✅ FastAPI Backend with clean, async architecture 
 ✅ Gradio Frontend for interactive user experience 
